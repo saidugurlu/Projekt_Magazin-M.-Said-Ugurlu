@@ -1,0 +1,61 @@
+/* Text */
+.text-center {
+  text-align: center;
+}
+
+.heading-klein {
+  font-size: 1.25rem;
+}
+
+.heading-mittel {
+  font-size: 1.75rem;
+}
+
+.heading-gross {
+  font-size: 3rem;
+  font-family: 'Caveat', cursive;
+}
+
+/* Farben-BG */
+
+.bg-dunkelblau {
+  background: #182945;
+}
+
+.bg-hellblau {
+  background: #46a5e5;
+}
+
+.bg-grün {
+  background: #a1c436;
+}
+
+.bg-grau {
+  background: #e8e8f0;
+}
+
+.bg-weiss {
+  color: #fbf6ce;
+}
+
+/* Farben-Text */
+.dunkelblau {
+    color: #182945;
+  }
+  
+  .hellblau {
+    color: #46a5e5;
+  }
+  
+  .grün {
+    color: #a1c436;
+  }
+  
+  .grau {
+    color: #e8e8f0;
+  }
+  
+  .weiss {
+    color: #fbf6ce;
+  }
+  

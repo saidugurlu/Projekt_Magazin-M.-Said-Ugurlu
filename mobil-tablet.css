@@ -1,0 +1,42 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.2rem;
+    padding-bottom: 0.6rem;
+    overflow: hidden;
+    height: 90px;
+  }
+
+  .heading-gross {
+    font-size: 2rem;
+    font-family: 'Caveat', cursive;
+  }
+  #navbar ul li a {
+    padding: 0.4rem;
+    font-size: 0.8rem;
+  }
+  
+  #typer {
+    display: none; 
+  
+  }
+  .search {
+    padding-top: 50px;
+    font-size: 0.5rem;
+  }
+
+  .icon-bar {
+    display: none; 
+  }
+  .container {
+    flex-direction: column;
+  }
+
+  #kontakt .kontakt-form {
+    margin: auto 0;
+    
+  }
+  .abaut {
+    width: 90%;
+    
+  }
+  
